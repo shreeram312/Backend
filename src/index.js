@@ -14,4 +14,4 @@ connectDb()
     console.log("error of mongodb" + err);
   });
 
-console.log("Finally done  ");
+console.log("Finally started with Models today ");
